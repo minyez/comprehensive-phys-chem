@@ -1,4 +1,0 @@
-# ignore all TeX files
-*/
-# except PDFs
-!*/*.pdf
